@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7471cb71-5121-4b4f-8ced-fb16b617f4ca" name="Default Changelist" comment="" />
+    <list default="true" id="7471cb71-5121-4b4f-8ced-fb16b617f4ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l9vhAWwmbrmaK0uf5bp8IsJIIt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../in class coding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../assignments/week7hangman" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,7 +49,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607022239022</updated>
-      <workItem from="1607022240744" duration="3036000" />
+      <workItem from="1607022240744" duration="3334000" />
+      <workItem from="1607463114953" duration="3040000" />
     </task>
     <servers />
   </component>
@@ -49,10 +58,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1607023864796">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1607465504143">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1607023864796" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1607465504143" />
+    <state x="487" y="238" key="Github.ShareDialog" timestamp="1607026547922">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="487" y="238" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1607026547922" />
+    <state x="289" y="45" key="Github.UntrackedFilesDialog" timestamp="1607026554124">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="289" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1607026554124" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1607022735930">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
